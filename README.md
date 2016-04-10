@@ -5,6 +5,8 @@ This handy little app was published on the Windows Phone store for some time.
 It will find Argos stores local to you via geo-location, and then let you search for goodies to buy.
 You'll see which stores locally have stock, as well as being able to view product details, images, and reviews.
 
+For those that don't know... Argos is a high street/online retailer in the UK.
+
 ## Disclaimer
 
 On your own with this one! Not even sure it still works! Argos have a habit of changing things with their (non-public) API.
